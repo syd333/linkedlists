@@ -1,5 +1,6 @@
 // ** SET
 // changing the value of a node based on its position in the linked list
+// UPDATING A NODE
 
 // PSEUDOCODE
 // function should accept an index and value
