@@ -20,3 +20,8 @@ class Node{
 // first.next.next.next = new Node("are")
 // first.next.next.next.next = new Node("you")
 
+// ** BIG O :::
+// insertion O(1)
+// removal (depends) O(1) or O(n)
+// searching O(n)
+// access O(n)
